@@ -1,3 +1,4 @@
+![banner](https://drive.google.com/file/d/1lCAelpm-cBv7NnT2jjR0UwIMmw4LDGX4/view?usp=sharinghttps://drive.google.com/file/d/1lCAelpm-cBv7NnT2jjR0UwIMmw4LDGX4/view?usp=sharing)
 <h2 align="left">Hi 👋! My name is Ricardo Ramirez and I'm a developer from Spain</h2>
 
 ###
@@ -43,4 +44,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ricardo-alpk&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-alpk&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ricardo-alpk&theme=dracula)

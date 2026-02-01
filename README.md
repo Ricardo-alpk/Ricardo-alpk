@@ -1,5 +1,5 @@
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/696d88a6-d8a0-47d9-9a59-43c88965dd5c" />
-  
+<img width="1536" height="725" alt="bannerSized" src="https://github.com/user-attachments/assets/bc1fea01-977b-468f-9b56-0a3f1fe2b41f" />
+
 <h2 align="left">Hi 👋! My name is Ricardo Ramirez and I'm a developer from Spain</h2>
 
 ###

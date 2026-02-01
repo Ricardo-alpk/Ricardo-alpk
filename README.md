@@ -43,4 +43,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ricardo-alpk&theme=dracula)](https://git.io/streak-stats)
 
-![Top Langs](https://raw.githubusercontent.com/Ricardo-alpk/github-stats-transparent/output/generated/languages.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Ricardo-alpk/github-stats-transparent/output/generated/languages.svg)

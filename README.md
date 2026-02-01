@@ -29,7 +29,7 @@
   <a href="https://discord.com/channels/ricardo_ramirex_28779" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="ricardo.man.ramirez@gmail.com" target="_blank">
+  <a href="mailto:ricardo.man.ramirez@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/ricardo-manuel-ramirez-cueva-5018632b9" target="_blank">

@@ -1,6 +1,6 @@
-<h2 align="left">Hi <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/696d88a6-d8a0-47d9-9a59-43c88965dd5c" />
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/696d88a6-d8a0-47d9-9a59-43c88965dd5c" />
   
-👋! My name is Ricardo Ramirez and I'm a developer from Spain</h2>
+<h2 align="left">Hi 👋! My name is Ricardo Ramirez and I'm a developer from Spain</h2>
 
 ###
 
